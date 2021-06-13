@@ -22,7 +22,7 @@ const Styles = StyleSheet.create({
   },
   icon: {
     alignItems: 'center',
-    borderRadius: maxContainerHeight / 2,
+    // borderRadius: maxContainerHeight / 2,
     borderWidth: 2,
     justifyContent: 'center',
     marginVertical: -borderWidth,
